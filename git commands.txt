@@ -1,0 +1,25 @@
+Git commands
+___________
+git init 		- initialize a new git repo
+git add .<files> 	- Add files to the staging area 
+git reset 		- undo changes and restore last commit
+git diff 		- display difference files in 2 commits
+git status 		- check state of staging area and working directory
+git commit -m message 	- commit files locally 
+git log 		- view entire commit history
+git clone url 		- clone exiting code from remote repo
+git branch 		- list all local branches
+git branch -a		- show all local and remote branches
+git branch <branch-name> 	- create new branch
+git branch -d <branch-name> 	- delete branch
+git branch -m <branch-name> 	- rename branch
+git merge <branch-name> 	- merge with current branch
+git checkout <branch-name> 	- switch to current branch
+git checkout -b <branch-name> 	- switch and create new branch
+git push <remote> <branch-name> - save all commit on remote repo
+git pull <remote> 		- pull down all from remote repo
+git rm <file-name> 		- remove files from working directory
+git stash 			- remove temporary uncommitecd changes
+git push remote_repo_name -d remote_branch_name - remove the remote branch
+git revert commit-ID
+
