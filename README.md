@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ifteqardevops
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on Great org.
+- 👀 I’m Cloud DevOps Engineer | 10+ Years | Azure, AWS, Kubernetes | Driving AI Platform Success
+- 🌱 I’m currently learning and teaching Automation using cloud
 - 📫 How to reach me ifteqardevops@gmail.com
 
 <!---
